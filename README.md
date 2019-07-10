@@ -12,13 +12,13 @@ PB = Product Backlog
 * [ ] A common language referring to the process must be shared by all participants
 * [ ] Those performing the work and those inspecting the resulting increment must share a common definition of “Done”.
 * [ ] Sprint Planning event is used
-* [ ] Daily Scrum is used
+* [x] Daily Scrum is used
 * [ ] Sprint Review is used
 * [ ] Sprint Retrospective is used
 * [ ] The Scrum Team and its stakeholders agree to be open about all the work and the challenges with performing the work.
-* [ ] Scrum Team members respect each other to be capable, independent people.
+* [x] Scrum Team members respect each other to be capable, independent people.
 * [ ] PO is defined, and known by everyone
-* [ ] The DT is defined, and known by everyone
+* [x] The DT is defined, and known by everyone
 * [ ] A SM is defined, and known by everyone
 * [ ] SCRUM team is self-organizing (They choose how best to accomplish their work, rather than being directed by others outside the team)
 * [ ] SCRUM team is cross-functional (Cross-functional teams have all competencies needed to accomplish the work without depending on others not part of the team.)
@@ -35,7 +35,7 @@ PB = Product Backlog
 * [ ] Neither PO nor SM has last word on how to turn the PB into increments
 * [ ] Nobody tells DT how to turn the BP to Increment
 * [ ] There are no titles for DT members
-* [ ] DT size is between 3 and 9
+* [x] DT size is between 3 and 9
 * [ ] SM provide knowledge about SCRUM theory, practices, rules, and values
 * [ ] SM serves PO by ensuring that goals, scope, and product domain are understood by everyone on the Scrum Team as well as possible;
 * [ ] SM finds techniques for effective Product Backlog management
@@ -55,13 +55,13 @@ PB = Product Backlog
 * [ ] SM causes change that increases the productivity of the Scrum Team
 * [ ] SM works with other Scrum Masters to increase the effectiveness of the application of Scrum in the organization.
 * [ ] Each sprint event has a maximum duration
-* [ ] A new Sprint starts immediately a$er the conclusion of the previous Sprint.
+* [ ] A new Sprint starts immediately after the conclusion of the previous Sprint.
 * [ ] Sprints contain and consist of the Sprint Planning, Daily Scrums, the development work, the Sprint Review, and the Sprint Retrospective.
 * [ ] During the Sprint no changes are made that would endanger the Sprint Goal
 * [ ] During the Sprint quality goals do not decrease
 * [ ] During the Sprint scope may be clarified and re-negotiated between the PO and DT as more is learned.
 * [ ] Each Sprint is a project with no more than a one-month horizon.
-* [ ] Only the PO has the authority to cancel the Sprint.
+* [x] Only the PO has the authority to cancel the Sprint.
 * [ ] The entire SCRUM team takes part in Sprint Planning
 * [ ] Sprint Planning is time-boxed to a maximum of eight hours for a one-month Sprint. SM is responsible of keeping track of time.
 * [ ] SM ensures that the event takes place and that atendants understand its purpose.
@@ -73,16 +73,16 @@ PB = Product Backlog
   * How will the chosen work get done?
     * The Product Backlog items selected for this Sprint plus the plan for delivering them is called the Sprint Backlog.
 * [ ] Sprint goal is created during Sprint planning 
-* [ ] Daily Scrum is 15-minute time boxed event for the DT
-* [ ] Daily Scrum is held every day of the Sprint
-* [ ] During Daily Scrum the DT plans work for next 24 hours
-* [ ] Daily Scrum is held at the same time each day
-* [ ] Daily Scrum is held at the same place each day
-* [ ] Daily Scrum example questions:
+* [x] Daily Scrum is 15-minute time boxed event for the DT
+* [x] Daily Scrum is held every day of the Sprint
+* [x] During Daily Scrum the DT plans work for next 24 hours
+* [x] Daily Scrum is held at the same time each day
+* [x] Daily Scrum is held at the same place each day
+* [x] Daily Scrum example questions:
   * What did I do yesterday that helped the Development Team meet the Sprint Goal
   * What will I do today to help the Development Team meet the Sprint Goal?
   * Do I see any impediment that prevents me or the Development Teamfrom meeting the Sprint Goal?
-* [ ] DT members often meet immediately after the Daily Scrum for detailed discussions
+* [x] DT members often meet immediately after the Daily Scrum for detailed discussions
 * [ ] SM ensures that the DT has the meeting, but the DT is responsible for conducting the Daily Scrum.
 * [ ] The SM teaches the DT to keep the Daily Scrum within the 15-minute time-box.
 * [ ] SM ensures that people from outside DT don't disrupt the meeting
