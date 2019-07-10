@@ -188,6 +188,12 @@ PB = Product Backlog
 
 ### Velocity
 
+## How to count items
+
+```sh
+echo  `grep README.md -e " * \[x\]" -c` / `grep README.md -e " * \[" -c`
+```
+
 ## References
 
 [https://brasswillow.pl/wp-content/uploads/2019/04/Illustrated-Scrum-Guide-2019.pdf](https://brasswillow.pl/wp-content/uploads/2019/04/Illustrated-Scrum-Guide-2019.pdf)
