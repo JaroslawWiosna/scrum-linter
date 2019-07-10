@@ -4,17 +4,13 @@ Tool for checking your implementation of SCRUM
 
 ## SCRUM rules
 
-SCRUM001 A common language referring to the process must be shared by all participants
-
-SCRUM002 Those performing the work and those inspecting the resulting increment must share a common definition of “Done”.
-
-SCRUM003 
-
 PO = Product Owner
 DT = Development Team
 SM = SCRUM Master
 PB = Product Backlog
 
+* [ ] A common language referring to the process must be shared by all participants
+* [ ] Those performing the work and those inspecting the resulting increment must share a common definition of “Done”.
 * [ ] Sprint Planning event is used
 * [ ] Daily Scrum is used
 * [ ] Sprint Review is used
@@ -124,6 +120,75 @@ PB = Product Backlog
   * [ ] Sprint Backlog
   * [ ] Increment
 
+## Glossary
+
+### Burn-down Chart
+
+### Burn-up Chart
+
+### Coherent/Coherence
+
+### Daily Scrum
+
+### Definition of Done
+
+### Development Team
+
+### Emergence
+
+### Empiricism
+
+### Engineering standards
+
+### Forecast (of functionality)
+
+### Increment
+
+### Product Backlog
+
+### Product Backlog refinement
+
+### Product Owner
+
+### Ready
+
+### Refinement
+
+### Scrum
+
+### Scrum Board
+
+### Scrum Guide™
+
+### Scrum Master
+
+### Scrum Team
+
+### Scrum Values
+
+### Self-organization
+
+### Sprint
+
+### Sprint Backlog
+
+### Sprint Goal
+
+### Sprint Planning
+
+### Sprint Retrospective
+
+### Sprint Review
+
+### Stakeholder
+
+### Technical Debt
+
+### Values
+
+### Velocity
+
 ## References
 
 [https://brasswillow.pl/wp-content/uploads/2019/04/Illustrated-Scrum-Guide-2019.pdf](https://brasswillow.pl/wp-content/uploads/2019/04/Illustrated-Scrum-Guide-2019.pdf)
+[https://www.scrum.org/resources/scrum-glossary](https://www.scrum.org/resources/scrum-glossary)
