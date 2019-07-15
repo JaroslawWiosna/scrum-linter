@@ -1,0 +1,16 @@
+language: haskell
+
+ghc:
+    - "7.6"
+
+before_script:
+    - uname -a
+    - echo "hello before script!"
+
+script: 
+    - ghc -o scrum-linter src/Main.hs 
+
+after_success:
+    - echo "after success" 
+    - ./scrum-linter
+
