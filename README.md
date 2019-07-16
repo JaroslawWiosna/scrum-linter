@@ -1,6 +1,6 @@
 # scrum-linter
 
-Tool for checking your implementation of SCRUM
+Linter-like tool to maintain SCRUM in your org
 
 ## SCRUM rules
 
