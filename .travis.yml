@@ -8,7 +8,7 @@ before_script:
     - echo "hello before script!"
 
 script: 
-    - ghc -o scrum-linter src/Main.hs 
+    - cabal install -j
 
 after_success:
     - echo "after success" 
