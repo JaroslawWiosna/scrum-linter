@@ -5,3 +5,6 @@ src/Main.o
 *.hi
 *.o
 
+dist
+
+
